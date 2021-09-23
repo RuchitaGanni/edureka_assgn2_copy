@@ -1,0 +1,53 @@
+.panel-default{
+    margin-left: 10px;
+}
+img{
+    width:200px !important;
+    height: 100px !important;
+}
+.col-md-4{
+    /* margin: 2px; */
+    box-shadow:   2px 8px 22px rgba(2, 214, 252, 0.2)
+}
+.jumbotron{
+    background-image:  url('food-wallpaper.png');
+    height: 50%;
+    width: 100%;
+}
+.brandMain{
+    height: 80px;
+    width: 80px;
+    display: inline-block;
+       
+}
+
+#brand{
+    background-color:rgb(250, 250, 250);
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    font-size:40px;
+    /* margin-left: 9px; */
+    margin-top: 10px;
+    border-radius: 60%;
+    position: absolute;
+    color: red;
+   
+}
+.box-header{
+    color: rgb(255, 255, 255);
+}
+/* .dropdown-toggle{
+    width: 140px;
+} */
+.left-inner-addon {
+    position: relative;
+}
+.left-inner-addon input {
+    padding-left: 30px;    
+}
+.left-inner-addon i {
+    position: absolute;
+    padding: 10px 12px;
+    pointer-events: none;
+}
